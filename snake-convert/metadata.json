@@ -1,0 +1,6 @@
+{
+  "name": "Serpentis - Smooth Arcade Snake",
+  "description": "A responsive React Snake arcade game with browser-based demo login, local score storage, and easy/medium/hard difficulties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["FRONTEND_ONLY", "BROWSER_LOCAL_STORAGE"]
+}
